@@ -15,8 +15,6 @@ CCNP-certified Network Engineer specializing in enterprise and service provider 
 
 Hands-on implementations of enterprise and service provider network configurations:
 
-Hands-on implementations of enterprise and service provider network configurations:
-
 - **Lab 04:** [EVE-NG Lab Environment Setup](coming-soon) - Infrastructure ⭐⭐
 - **Lab 03:** [IPsec over MPLS VPN with VRF](coming-soon) - Advanced ⭐⭐⭐⭐⭐
 - **Lab 02:** [MPLS BGP VPN with SOO](coming-soon) - Intermediate ⭐⭐⭐
