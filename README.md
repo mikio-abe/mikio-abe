@@ -23,7 +23,7 @@ Hands-on implementations of enterprise and service provider network configuratio
 
 ## 📖 About Me
 
-Currently preparing for **Technical Account Manager (TAM)** roles at Cisco, Fortinet, and Palo Alto Networks.
+Currently preparing for **Technical Account Manager (TAM)** roles.
 
 Focused on bridging the gap between CCNP certification and real-world enterprise network implementations through practical lab work.
 
