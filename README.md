@@ -15,10 +15,12 @@ CCNP-certified Network Engineer specializing in enterprise and service provider 
 
 Hands-on implementations of enterprise and service provider network configurations:
 
-Lab 01: MPLS BGP VPN (Standard) - Fundamental ⭐⭐
-Lab 02: MPLS BGP VPN with SOO - Intermediate ⭐⭐⭐
-Lab 03: IPsec over MPLS VPN with VRF - Advanced ⭐⭐⭐⭐⭐
-Lab 04: EVE-NG Lab Environment Setup - Infrastructure ⭐⭐
+Hands-on implementations of enterprise and service provider network configurations:
+
+- **Lab 04:** [EVE-NG Lab Environment Setup](coming-soon) - Infrastructure ⭐⭐
+- **Lab 03:** [IPsec over MPLS VPN with VRF](coming-soon) - Advanced ⭐⭐⭐⭐⭐
+- **Lab 02:** [MPLS BGP VPN with SOO](coming-soon) - Intermediate ⭐⭐⭐
+- **Lab 01:** [MPLS BGP VPN (Standard)](coming-soon) - Fundamental ⭐⭐
 
 ## 📖 About Me
 
