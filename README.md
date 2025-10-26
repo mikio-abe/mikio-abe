@@ -25,7 +25,7 @@ Hands-on implementations of enterprise and service provider network configuratio
 
 Currently preparing for **Technical Account Manager (TAM)** roles.
 
-Focused on bridging the gap between CCNP certification and real-world enterprise network implementations through practical lab work.
+Focused on bridging the gap between CCNP Encore certification and real-world enterprise network implementations through practical lab work.
 
 ## 📫 Contact
 
