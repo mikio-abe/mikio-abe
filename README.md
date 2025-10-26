@@ -1,7 +1,7 @@
 markdown# 
 Hi, I'm Mikio Abe 
 
-CCNP-certified Network Engineer specializing in enterprise and service provider configurations.
+CCNP ENCOR certified Network Engineer specializing in enterprise and service provider configurations.
 
 ## 🔧 Technical Skills
 
