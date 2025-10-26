@@ -9,7 +9,7 @@ CCNP ENCOR certified Network Engineer specializing in enterprise and service pro
 **VPN Technologies:** IPsec, DMVPN, GRE, VRF-aware IPsec  
 **Service Provider:** MPLS, BGP VPNv4, LDP  
 **Tools:** EVE-NG, GNS3  
-**Certifications:** CCNP Enterprise
+**Certifications:** CCNP Encore Certificated
 
 ## 🚀 Network Lab Portfolio
 
