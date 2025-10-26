@@ -8,7 +8,7 @@ CCNP ENCOR certified Network Engineer specializing in enterprise and service pro
 **Networking:** Routing & Switching, MPLS VPN, IPsec, BGP, OSPF, EIGRP  
 **VPN Technologies:** IPsec, DMVPN, GRE, VRF-aware IPsec  
 **Service Provider:** MPLS, BGP VPNv4, LDP  
-**Tools:** EVE-NG, Wireshark, GNS3  
+**Tools:** EVE-NG, GNS3  
 **Certifications:** CCNP Enterprise
 
 ## 🚀 Network Lab Portfolio
