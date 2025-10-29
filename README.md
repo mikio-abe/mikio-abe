@@ -34,5 +34,4 @@ Focused on bridging the gap between CCNP Encore certification and real-world ent
 ## 📫 Contact
 
 - **Location:** Tokyo, Japan
-- **LinkedIn:** [Connect with me](your-linkedin-url)
 
