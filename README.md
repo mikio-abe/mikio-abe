@@ -16,7 +16,7 @@ CCNP ENCOR certified Network Engineer specializing in enterprise and service pro
 Hands-on implementations of enterprise and service provider network configurations:
 
 - **Lab 01:** [EVE-NG Lab Environment Setup](coming-soon) - Infrastructure ⭐⭐
-- **Lab 02:** [MPLS BGP VPN (Standard)](coming-soon) - Fundamental ⭐⭐⭐
+- **Lab 02:** [MPLS BGP VPN (Standard)]((https://github.com/mikio-abe/network-lab-02-mpls-bgp-vpn-standard)) - Fundamental ⭐⭐⭐
 - **Lab 03:** [MPLS BGP VPN with SOO](coming-soon) - Intermediate ⭐⭐⭐⭐
 - **Lab 04:** [IPsec over MPLS VPN with VRF](coming-soon) - Advanced ⭐⭐⭐⭐⭐
 ```
