@@ -1,31 +1,81 @@
-markdown# 
-Hi, I'm Mikio Abe 
+# Hi, I'm Mikio Abe
 
-CCNP ENCOR certified Network Engineer specializing in enterprise and service provider configurations.
+CCNP ENCOR certified Network Engineer with expertise in **SASE, SD-WAN, and Zero Trust architectures**, built on a strong foundation of enterprise and service provider networking.
 
-## 🔧 Technical Skills
+---
 
-**Networking:** Routing & Switching, MPLS VPN, IPsec, BGP, OSPF, EIGRP  
-**VPN Technologies:** IPsec, DMVPN, GRE, VRF-aware IPsec  
-**Service Provider:** MPLS, BGP VPNv4, LDP  
-**Tools:** EVE-NG, GNS3  
-**Certifications:** CCNP Encore Certificated
+## 🛠 Technical Skills
 
-## 🚀 Network Lab Portfolio
+**SASE / Zero Trust:** Cloudflare Zero Trust (SWG, ZTNA, WARP)
+**SD-WAN:** FortiGate SD-WAN, IPsec/VRF integration
+**Networking:** MPLS L3VPN, BGP, OSPF, EIGRP, VRF
+**VPN Technologies:** IPsec, WireGuard, DMVPN, GRE
+**Service Provider:** MPLS, BGP VPNv4, LDP
+**Tools:** EVE-NG Pro, Wireshark, TCPDump, GNS3
+**Certifications:** CCNP ENCOR | Fortinet NSE4 (In Progress)
 
-Hands-on implementations of enterprise and service provider network configurations:
+---
 
-- **Lab 02:** [MPLS BGP VPN (Standard)](https://github.com/mikio-abe/network-lab-02-mpls-bgp-vpn-standard) - Fundamental ⭐⭐⭐
-- **Lab 03:** [MPLS BGP VPN with SOO](https://github.com/mikio-abe/network-lab-03-mpls-bgp-vpn-soo) - Intermediate ⭐⭐⭐⭐
-- **Lab 04:** [IPsec over MPLS VPN with VRF](https://github.com/mikio-abe/network-lab-04-ipsec-mpls-vrf) - Advanced ⭐⭐⭐⭐⭐
+## 🔬 Lab Overview
+
+### SASE × SD-WAN Verification Lab
+
+A comprehensive verification environment integrating MPLS underlay, SD-WAN overlay, and SASE security layers.
+
+```
+Site A                                              Site B
+┌─────────┐                                    ┌─────────┐
+│ SD-WAN  │                                    │ SD-WAN  │
+│  Edge   │                                    │  Edge   │
+└────┬────┘                                    └────┬────┘
+     │                                              │
+     │  ┌─────────────────────────────────────┐    │
+     │  │         MPLS Core (VRF)             │    │
+     ├──┤  CE ─── PE ═══════ PE ─── CE        ├────┤
+     │  └─────────────────────────────────────┘    │
+     │                                              │
+     │  ┌─────────────────────────────────────┐    │
+     └──┤      SASE Path (Internet)           ├────┘
+        │  WireGuard ─── Gateway ─── WireGuard │
+        └─────────────────────────────────────┘
 ```
 
-**Markdown形式の説明：**
-```
-[表示テキスト](URL)
+**Architecture Layers:**
+- **Underlay:** MPLS L3VPN (CE-PE-PE-CE)
+- **Overlay:** SD-WAN with dual-path IPsec tunnels
+- **Security:** SASE (SWG, ZTNA, DNS filtering)
 
+---
+
+## 🚀 Key Components
+
+Each component demonstrates hands-on implementation with architectural documentation:
+
+| Component | Description | Details |
+|-----------|-------------|---------|
+| **SASE / Zero Trust** | SWG, ZTNA, TLS Inspection, DNS Filtering | [View →](./SASE-ZeroTrust) |
+| **SD-WAN** | Dual-path Design, Health Check, SLA-based Failover | [View →](./SD-WAN) |
+| **Enterprise / SP** | MPLS L3VPN, BGP Policy, VRF Design | [View →](./Enterprise-SP) |
+| **Brownout Detection** | Latency Injection, Quality Degradation, Path Switching | [View →](./Brownout) |
+| **Troubleshooting** | Packet Capture, Visibility Boundaries, Encrypted Tunnel Analysis | [View →](./Troubleshooting) |
+
+---
+
+## 🎯 Current Focus
+
+- Building SASE/SD-WAN lab environments for enterprise use cases
+- Fortinet NSE4 certification
+- Exploring VeloCloud on EVE-NG
+- *(Optional: Zscaler ZDTA certification)*
+
+---
 
 ## 📫 Contact
 
 - **Location:** Tokyo, Japan
+- **LinkedIn:** [Connect with me](#)
+
+---
+
+*Bridging traditional enterprise networking with modern SASE architectures*
 
