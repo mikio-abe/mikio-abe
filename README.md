@@ -55,7 +55,7 @@ Each component demonstrates hands-on implementation with architectural documenta
 |-----------|-------------|---------|
 | **SASE / Zero Trust** | SWG, ZTNA, TLS Inspection, DNS Filtering | [View →](./SASE-ZeroTrust) |
 | **SD-WAN** | Dual-path Design, Health Check, SLA-based Failover | [View →](./SD-WAN) |
-| **Enterprise / SP** | MPLS L3VPN, BGP Policy, VRF Design | [View →](./Enterprise-SP) |
+| **Enterprise / ISP** | MPLS L3VPN, BGP Policy, VRF Design | [View →](./Enterprise-SP) |
 | **Brownout Detection** | Latency Injection, Quality Degradation, Path Switching | [View →](./Brownout) |
 | **Troubleshooting** | Packet Capture, Visibility Boundaries, Encrypted Tunnel Analysis | [View →](./Troubleshooting) |
 
