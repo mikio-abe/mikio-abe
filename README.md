@@ -20,7 +20,8 @@ CCNP ENCOR取得済みのネットワークエンジニア。SASE、SD-WAN、ゼ
 
 **【日本語サマリ】**
 
-Cloudflare Zero Trust、FortiGate SD-WAN、MPLS L3VPN、各種VPN技術（IPsec、WireGuard、DMVPN）を習得。EVE-NG Pro等のラボ環境で検証実施。CCNP ENCOR取得済み、Fortinet NSE4準備中。
+Cloudflare Zero Trust、FortiGate SD-WAN、MPLS L3VPN、各種VPN技術（IPsec、WireGuard、DMVPN）を習得。
+EVE-NG Pro等のラボ環境で検証実施。CCNP ENCOR取得済み、Fortinet NSE4準備中。
 
 ---
 
@@ -72,7 +73,8 @@ Each component demonstrates hands-on implementation with architectural documenta
 
 **【日本語サマリ】**
 
-各コンポーネントはハンズオン実装とアーキテクチャドキュメントで構成。SASE/Zero Trust、SD-WAN、Enterprise/SP（MPLS）、Troubleshootingの4つのリポジトリで詳細を公開。
+各コンポーネントはハンズオン実装とアーキテクチャドキュメントで構成。
+SASE/Zero Trust、SD-WAN、Enterprise/SP（MPLS）、Troubleshootingの4つのリポジトリで詳細を公開。
 
 ---
 
@@ -85,7 +87,8 @@ Each component demonstrates hands-on implementation with architectural documenta
 
 **【日本語サマリ】**
 
-Fortinet NSE4取得準備中。スマホにSlack/Teams等をインストールし、SASE経由での認証（OAuthリダイレクト）、WebSocket通信、TLS Inspectionの互換性を検証予定。TwingateのConnector型ZTNAでAWS EC2への接続検証も計画中。
+Fortinet NSE4取得準備中。スマホにSlack/Teams等をインストールし、SASE経由での認証（OAuthリダイレクト）、WebSocket通信、TLS Inspectionの互換性を検証予定。
+TwingateのConnector型ZTNAでAWS EC2への接続検証も計画中。
 
 ---
 
