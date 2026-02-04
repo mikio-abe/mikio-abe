@@ -32,7 +32,8 @@ Cloudflare Zero Trust、FortiGate SD-WAN、MPLS L3VPN、各種VPN技術（IPsec�
 
 A comprehensive verification environment integrating MPLS underlay, SD-WAN overlay, and SASE security layers.
 
-<img width="1260" height="1086" alt="image" src="https://github.com/user-attachments/assets/af632fe3-5c38-45b6-95bd-75df3a4509aa" />
+<img width="1147" height="1025" alt="image" src="https://github.com/user-attachments/assets/3f87c79e-b43d-4536-a084-6062fbc5bd93" />
+
 
 ```
 
