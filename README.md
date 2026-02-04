@@ -35,24 +35,6 @@ A comprehensive verification environment integrating MPLS underlay, SD-WAN overl
 <img width="1147" height="1025" alt="image" src="https://github.com/user-attachments/assets/3f87c79e-b43d-4536-a084-6062fbc5bd93" />
 
 
-```
-
-Site A                                              Site B
-┌─────────┐                                   ┌─────────┐
-│ SD-WAN  │                                   │ SD-WAN  │
-│  Edge   │                                   │  Edge   │
-└────┬────┘                                   └────┬────┘
-     │                                             │
-     │  ┌─────────────────────────────────────┐    │
-     │  │         MPLS Core (VRF)             │    │
-     ├──┤  CE ─── PE ═══════ PE ─── CE        ├────┤
-     │  └─────────────────────────────────────┘    │
-     │                                             │
-     │  ┌─────────────────────────────────────┐    │
-     └──┤      SASE Path (Internet)           ├────┘
-        │ WireGuard ─── Gateway ─── WireGuard │
-        └─────────────────────────────────────┘
-```
 
 **Architecture Layers:**
 - **Underlay:** MPLS L3VPN (CE-PE-PE-CE)
