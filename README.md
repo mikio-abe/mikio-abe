@@ -10,18 +10,19 @@ CCNP ENCOR取得済みのネットワークエンジニア。SASE、SD-WAN、ゼ
 
 ## 🛠 Technical Skills
 
-**SASE / Zero Trust:** Cloudflare Zero Trust (SWG, ZTNA, WARP)
-**SD-WAN:** FortiGate SD-WAN, IPsec/VRF integration
-**Networking:** MPLS L3VPN, BGP, OSPF, EIGRP, VRF
-**VPN Technologies:** IPsec, WireGuard, DMVPN, GRE
-**Service Provider:** MPLS, BGP VPNv4, LDP
-**Tools:** EVE-NG Pro, Wireshark, TCPDump, GNS3
-**Certifications:** CCNP ENCOR | Fortinet NSE4 (Preparing)
+| Category | Skills |
+|----------|--------|
+| SASE / Zero Trust | Cloudflare Zero Trust (SWG, ZTNA, WARP) |
+| SD-WAN | FortiGate SD-WAN, IPsec/VRF integration |
+| Networking | MPLS L3VPN, BGP, OSPF, EIGRP, VRF |
+| VPN Technologies | IPsec, WireGuard, DMVPN, GRE |
+| Service Provider | MPLS, BGP VPNv4, LDP |
+| Tools | EVE-NG Pro, Wireshark, TCPDump, GNS3 |
+| Certifications | CCNP ENCOR, CCNA, Linuc Level 1, Fortinet NSE4 (Preparing) |
 
 **【日本語サマリ】**
 
-Cloudflare Zero Trust、FortiGate SD-WAN、MPLS L3VPN、各種VPN技術（IPsec、WireGuard、DMVPN）を習得。
-EVE-NG Pro等のラボ環境で検証実施。CCNP ENCOR取得済み、Fortinet NSE4準備中。
+Cloudflare Zero Trust、FortiGate SD-WAN、MPLS L3VPN、各種VPN技術（IPsec、WireGuard、DMVPN）を習得。EVE-NG Pro等のラボ環境で検証実施。CCNP ENCOR、CCNA、Linuc Level 1取得済み、Fortinet NSE4準備中。
 
 ---
 
@@ -73,8 +74,7 @@ Each component demonstrates hands-on implementation with architectural documenta
 
 **【日本語サマリ】**
 
-各コンポーネントはハンズオン実装とアーキテクチャドキュメントで構成。
-SASE/Zero Trust、SD-WAN、Enterprise/SP（MPLS）、Troubleshootingの4つのリポジトリで詳細を公開。
+各コンポーネントはハンズオン実装とアーキテクチャドキュメントで構成。SASE/Zero Trust、SD-WAN、Enterprise/SP（MPLS）、Troubleshootingの4つのリポジトリで詳細を公開。
 
 ---
 
@@ -87,8 +87,7 @@ SASE/Zero Trust、SD-WAN、Enterprise/SP（MPLS）、Troubleshootingの4つの�
 
 **【日本語サマリ】**
 
-Fortinet NSE4取得準備中。スマホにSlack/Teams等をインストールし、SASE経由での認証（OAuthリダイレクト）、WebSocket通信、TLS Inspectionの互換性を検証予定。
-TwingateのConnector型ZTNAでAWS EC2への接続検証も計画中。
+Fortinet NSE4取得準備中。スマホにSlack/Teams等をインストールし、SASE経由での認証（OAuthリダイレクト）、WebSocket通信、TLS Inspectionの互換性を検証予定。TwingateのConnector型ZTNAでAWS EC2への接続検証も計画中。
 
 ---
 
