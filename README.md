@@ -23,20 +23,20 @@ CCNP ENCOR certified Network Engineer with expertise in **SASE, SD-WAN, and Zero
 A comprehensive verification environment integrating MPLS underlay, SD-WAN overlay, and SASE security layers.
 
 ```
-Site A                                              Site B
-┌─────────┐                                    ┌─────────┐
-│ SD-WAN  │                                    │ SD-WAN  │
-│  Edge   │                                    │  Edge   │
-└────┬────┘                                    └────┬────┘
-     │                                              │
+Site A                                             Site B
+┌─────────┐                                   ┌─────────┐
+│ SD-WAN  │                                   │ SD-WAN  │
+│  Edge   │                                   │  Edge   │
+└────┬────┘                                   └────┬────┘
+     │                                             │
      │  ┌─────────────────────────────────────┐    │
      │  │         MPLS Core (VRF)             │    │
      ├──┤  CE ─── PE ═══════ PE ─── CE        ├────┤
      │  └─────────────────────────────────────┘    │
-     │                                              │
+     │                                             │
      │  ┌─────────────────────────────────────┐    │
      └──┤      SASE Path (Internet)           ├────┘
-        │  WireGuard ─── Gateway ─── WireGuard │
+        │ WireGuard ─── Gateway ─── WireGuard │
         └─────────────────────────────────────┘
 ```
 
