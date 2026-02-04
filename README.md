@@ -79,7 +79,7 @@ Fortinet NSE4取得準備中。スマホにSlack/Teams等をインストール�
 
 ## 📫 Contact
 
-- **Location:** Tokyo, Japan
+- **Location:** Tokyo,Yokohama, Japan
 - **LinkedIn:** [Connect with me](#)
 
 ---
