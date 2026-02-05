@@ -81,9 +81,7 @@ A comprehensive verification environment integrating MPLS underlay, SD-WAN overl
 | Site | Device | Interface | IP Address | Subnet |
 |------|--------|-----------|------------|--------|
 | Site 1 | FG1 | port4 | 192.168.134.1 | /24 |
-| | PC1 | — | 192.168.134.10 | /24 |
 | Site 2 | FG2 | port3 | 192.168.20.1 | /24 |
-| | PC2 | — | 192.168.20.100 | /24 |
 
 #### Loopback
 
