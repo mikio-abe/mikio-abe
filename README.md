@@ -40,7 +40,7 @@ Each component demonstrates hands-on implementation with architectural documenta
 
 **【日本語サマリ】**
 
-各コンポーネントはハンズオン実装とアーキテクチャドキュメントで構成。SASE/Zero Trust、SD-WAN、Enterprise/SP（MPLS）、Troubleshootingの4つのリポジトリで詳細を公開。
+各コンポーネントはハンズオン実装とアーキテクチャドキュメントで構成。SASE/Zero Trust、SD-WAN、Enterprise/SP（MPLS）、Troubleshooting、Lab vs Productionの5つのリポジトリで詳細を公開。
 
 ---
 
