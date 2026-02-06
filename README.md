@@ -26,6 +26,24 @@ Cloudflare Zero Trust、FortiGate SD-WAN、MPLS L3VPN、各種VPN技術（IPsec�
 
 ---
 
+## 🚀 Key Components
+
+Each component demonstrates hands-on implementation with architectural documentation:
+
+| Component | Description | Details |
+|-----------|-------------|---------|
+| **SASE / Zero Trust** | SWG, ZTNA, TLS Inspection, DNS Filtering | [View →](https://github.com/mikio-abe/SASE-ZeroTrust) |
+| **SD-WAN** | Dual-path Design, Health Check, SLA-based Failover | [View →](https://github.com/mikio-abe/SD-WAN) |
+| **Enterprise / SP** | MPLS L3VPN, BGP Policy, VRF Design | [View →](https://github.com/mikio-abe/Enterprise-SP) |
+| **Troubleshooting** | Encrypted Tunnel Analysis, Visibility Boundaries | [View →](https://github.com/mikio-abe/Troubleshooting) |
+| **Lab vs Production** | Differences between lab and production deployments | [View →](https://github.com/mikio-abe/Lab-vs-Production) |
+
+**【日本語サマリ】**
+
+各コンポーネントはハンズオン実装とアーキテクチャドキュメントで構成。SASE/Zero Trust、SD-WAN、Enterprise/SP（MPLS）、Troubleshootingの4つのリポジトリで詳細を公開。
+
+---
+
 ## 🔬 Lab Overview
 
 ### SASE × SD-WAN Verification Lab
@@ -117,24 +135,6 @@ A comprehensive verification environment integrating MPLS underlay, SD-WAN overl
 **【日本語サマリ】**
 
 MPLS L3VPNをUnderlayとし、SD-WAN（デュアルパスIPsec）をOverlay、SASE（SWG、ZTNA、DNSフィルタリング）をセキュリティ層として統合した検証環境。
-
----
-
-## 🚀 Key Components
-
-Each component demonstrates hands-on implementation with architectural documentation:
-
-| Component | Description | Details |
-|-----------|-------------|---------|
-| **SASE / Zero Trust** | SWG, ZTNA, TLS Inspection, DNS Filtering | [View →](https://github.com/mikio-abe/SASE-ZeroTrust) |
-| **SD-WAN** | Dual-path Design, Health Check, SLA-based Failover | [View →](https://github.com/mikio-abe/SD-WAN) |
-| **Enterprise / SP** | MPLS L3VPN, BGP Policy, VRF Design | [View →](https://github.com/mikio-abe/Enterprise-SP) |
-| **Troubleshooting** | Encrypted Tunnel Analysis, Visibility Boundaries | [View →](https://github.com/mikio-abe/Troubleshooting) |
-| **Lab vs Production** | Differences between lab and production deployments | [View →](https://github.com/mikio-abe/Lab-vs-Production) |
-
-**【日本語サマリ】**
-
-各コンポーネントはハンズオン実装とアーキテクチャドキュメントで構成。SASE/Zero Trust、SD-WAN、Enterprise/SP（MPLS）、Troubleshootingの4つのリポジトリで詳細を公開。
 
 ---
 
