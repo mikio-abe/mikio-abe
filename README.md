@@ -13,7 +13,7 @@ CCNP ENCOR取得済みのネットワークエンジニア。SASE、SD-WAN、ゼ
 | Category | Skills |
 |----------|--------|
 | SASE / Zero Trust | Cloudflare Zero Trust (SWG, ZTNA, WARP) |
-| SD-WAN | FortiGate SD-WAN, IPsec/VRF integration |
+| SD-WAN | FortiGate SD-WAN, Cisco Viptela (vBond/vSmart/vEdge), IPsec/VRF integration |
 | Networking | MPLS L3VPN, BGP, OSPF, EIGRP, VRF |
 | VPN Technologies | IPsec, WireGuard, DMVPN, GRE |
 | Service Provider | MPLS, BGP VPNv4, LDP |
@@ -22,7 +22,7 @@ CCNP ENCOR取得済みのネットワークエンジニア。SASE、SD-WAN、ゼ
 
 **【日本語サマリ】**
 
-Cloudflare Zero Trust、FortiGate SD-WAN、MPLS L3VPN、各種VPN技術（IPsec、WireGuard、DMVPN）を習得。EVE-NG Pro等のラボ環境で検証実施。CCNP ENCOR、CCNA、Linuc Level 1取得済み、Fortinet NSE4準備中。
+Cloudflare Zero Trust、FortiGate SD-WAN、Cisco Viptela SD-WAN、MPLS L3VPN、各種VPN技術（IPsec、WireGuard、DMVPN）を習得。EVE-NG Pro等のラボ環境で検証実施。CCNP ENCOR、CCNA、Linuc Level 1取得済み、Fortinet NSE4準備中。
 
 ---
 
@@ -33,14 +33,15 @@ Each component demonstrates hands-on implementation with architectural documenta
 | Component | Description | Details |
 |-----------|-------------|---------|
 | **SASE / Zero Trust** | SWG, ZTNA, TLS Inspection, DNS Filtering | [View →](https://github.com/mikio-abe/SASE-ZeroTrust) |
-| **SD-WAN** | Dual-path Design, Health Check, SLA-based Failover | [View →](https://github.com/mikio-abe/SD-WAN) |
+| **SD-WAN (FortiGate)** | Dual-path Design, Health Check, SLA-based Failover | [View →](https://github.com/mikio-abe/SD-WAN) |
+| **SD-WAN (Cisco Viptela)** | CLI-only controller-based SD-WAN, Enterprise Root CA, OMP/BFD | [View →](https://github.com/mikio-abe/Cisco-Viptela-SD-WAN-CLI-Only-No-vManage-) |
 | **Enterprise / SP** | MPLS L3VPN, BGP Policy, VRF Design | [View →](https://github.com/mikio-abe/Enterprise-SP) |
 | **Troubleshooting** | Encrypted Tunnel Analysis, Visibility Boundaries | [View →](https://github.com/mikio-abe/Troubleshooting) |
 | **Lab vs Production** | Differences between lab and production deployments | [View →](https://github.com/mikio-abe/Lab-vs-Production) |
 
 **【日本語サマリ】**
 
-各コンポーネントはハンズオン実装とアーキテクチャドキュメントで構成。SASE/Zero Trust、SD-WAN、Enterprise/SP（MPLS）、Troubleshooting、Lab vs Productionの5つのリポジトリで詳細を公開。
+各コンポーネントはハンズオン実装とアーキテクチャドキュメントで構成。SASE/Zero Trust、SD-WAN（FortiGate/Cisco Viptela）、Enterprise/SP（MPLS）、Troubleshooting、Lab vs Productionの6つのリポジトリで詳細を公開。
 
 ---
 
