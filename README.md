@@ -141,14 +141,14 @@ MPLS L3VPNをUnderlayとし、SD-WAN（デュアルパスIPsec）をOverlay、SA
 
 ## 🎯 Current Focus
 
-- **Fortinet NSE4 certification** - Preparing for exam
-- **Mobile endpoint verification** - Testing Slack/Teams through SASE to verify OAuth redirect, WebSocket connectivity, and TLS inspection compatibility
-- **Twingate ZTNA evaluation** - Connector-based access to AWS EC2 instances
-- *(Optional: Zscaler ZDTA certification)*
+- **ENSDWI (300-415) preparation** — building on ENARSI-level routing concepts already studied
+- **Cisco Viptela SD-WAN integration (No vManage)** — OMP routing, IPsec tunnels, and control-plane behavior validation
+- **Dual-path failover verification** — MPLS primary / SASE secondary with SLA-based path switching and AS-path prepending
+- **ZTNA design evaluation (planned)** — connector-based access to AWS EC2 via Twingate
 
 **【日本語サマリ】**
 
-Fortinet NSE4取得準備中。スマホにSlack/Teams等をインストールし、SASE経由での認証（OAuthリダイレクト）、WebSocket通信、TLS Inspectionの互換性を検証予定。TwingateのConnector型ZTNAでAWS EC2への接続検証も計画中。
+ENARSIレベルのルーティング概念を学習済み。現在、設計・構築案件を想定しENSDWI (300-415) を検討中。Cisco Viptela SD-WAN（vManageなし構成）をラボで構築し、OMPルーティングやIPsecトンネルの挙動を検証。SD-WANとSASE接続時の経路選択やフェイルオーバー挙動を中心に検証を実施。ZTNA（Twingate）を用いたAWS EC2への接続設計・検証も計画中。
 
 ---
 
