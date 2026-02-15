@@ -36,7 +36,7 @@ Each component demonstrates hands-on implementation with architectural documenta
 | **SASE / Zero Trust** | SWG, ZTNA, TLS Inspection, DNS Filtering | [View →](https://github.com/mikio-abe/SASE-ZeroTrust) |
 | **SD-WAN (FortiGate)** | Dual-path Design, Health Check, SLA-based Failover | [View →](https://github.com/mikio-abe/SD-WAN) |
 | **SD-WAN (Cisco Viptela)** | CLI-only controller-based SD-WAN, Enterprise Root CA, OMP/BFD | [View →](https://github.com/mikio-abe/Cisco-Viptela-SD-WAN-CLI-Only-No-vManage-) |
-| **NGFW (Palo Alto)** | IPSec VPN, BGP over IPSec, App-ID, MPLS/SASE Failover | [View →](https://github.com/mikio-abe/NGFW-Palo-Alto) |
+| **NGFW (Palo Alto)** | IPSec VPN, BGP over IPSec, App-ID, MPLS/SASE Failover | [View →](https://github.com/mikio-abe/NGFW-Palo-Alto)|
 | **Enterprise / SP** | MPLS L3VPN, BGP Policy, VRF Design | [View →](https://github.com/mikio-abe/Enterprise-SP) |
 | **Troubleshooting** | Encrypted Tunnel Analysis, Visibility Boundaries | [View →](https://github.com/mikio-abe/Troubleshooting) |
 | **Lab vs Production** | Differences between lab and production deployments | [View →](https://github.com/mikio-abe/Lab-vs-Production) |
