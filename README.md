@@ -14,6 +14,7 @@ CCNP ENCOR取得済みのネットワークエンジニア。SASE、SD-WAN、ゼ
 |----------|--------|
 | SASE / Zero Trust | Cloudflare Zero Trust (SWG, ZTNA, WARP) |
 | SD-WAN | FortiGate SD-WAN, Cisco Viptela (vBond/vSmart/vEdge), IPsec/VRF integration |
+| NGFW | Palo Alto PA-VM (PAN-OS), IPSec VPN, BGP over IPSec, App-ID |
 | Networking | MPLS L3VPN, BGP, OSPF, EIGRP, VRF |
 | VPN Technologies | IPsec, WireGuard, DMVPN, GRE |
 | Service Provider | MPLS, BGP VPNv4, LDP |
@@ -35,13 +36,14 @@ Each component demonstrates hands-on implementation with architectural documenta
 | **SASE / Zero Trust** | SWG, ZTNA, TLS Inspection, DNS Filtering | [View →](https://github.com/mikio-abe/SASE-ZeroTrust) |
 | **SD-WAN (FortiGate)** | Dual-path Design, Health Check, SLA-based Failover | [View →](https://github.com/mikio-abe/SD-WAN) |
 | **SD-WAN (Cisco Viptela)** | CLI-only controller-based SD-WAN, Enterprise Root CA, OMP/BFD | [View →](https://github.com/mikio-abe/Cisco-Viptela-SD-WAN-CLI-Only-No-vManage-) |
+| **NGFW (Palo Alto)** | IPSec VPN, BGP over IPSec, App-ID, MPLS/SASE Failover | [View →](https://github.com/mikio-abe/PaloAlto-NGFW-IPSec-BGP) |
 | **Enterprise / SP** | MPLS L3VPN, BGP Policy, VRF Design | [View →](https://github.com/mikio-abe/Enterprise-SP) |
 | **Troubleshooting** | Encrypted Tunnel Analysis, Visibility Boundaries | [View →](https://github.com/mikio-abe/Troubleshooting) |
 | **Lab vs Production** | Differences between lab and production deployments | [View →](https://github.com/mikio-abe/Lab-vs-Production) |
 
 **【日本語サマリ】**
 
-各コンポーネントはハンズオン実装とアーキテクチャドキュメントで構成。SASE/Zero Trust、SD-WAN（FortiGate/Cisco Viptela）、Enterprise/SP（MPLS）、Troubleshooting、Lab vs Productionの6つのリポジトリで詳細を公開。
+各コンポーネントはハンズオン実装とアーキテクチャドキュメントで構成。SASE/Zero Trust、SD-WAN（FortiGate/Cisco Viptela）、NGFW（Palo Alto）、Enterprise/SP（MPLS）、Troubleshooting、Lab vs Productionの7つのリポジトリで詳細を公開。
 
 ---
 
