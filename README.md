@@ -53,7 +53,8 @@ Each component demonstrates hands-on implementation with architectural documenta
 
 A comprehensive verification environment integrating MPLS underlay, SD-WAN overlay, and SASE security layers.<BR>
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/0aec4f12-d0c4-493c-b884-d953714d0908" />
+<img width="750" alt="image" src="https://github.com/user-attachments/assets/82fe9e43-5e8e-4c65-9da9-b72f4f276f1e" />
+
 
 ---
 ### AS Numbers
