@@ -1,4 +1,4 @@
-# Hi, I'm Mikio Abe
+![lab12_architecture_v7](https://github.com/user-attachments/assets/14f1b843-b24e-49e0-8595-ddb668b1b3bb)# Hi, I'm Mikio Abe
 
 CCNP ENCOR certified Network Engineer with expertise in **SASE, SD-WAN, and Zero Trust architectures**, built on a strong foundation of enterprise and service provider networking.
 
@@ -52,6 +52,8 @@ Each component demonstrates hands-on implementation with architectural documenta
 ### SASE × SD-WAN Verification Lab
 
 A comprehensive verification environment integrating MPLS underlay, SD-WAN overlay, and SASE security layers.<BR>
+
+<img width="1000" alt="image" src="https://github.com/user-attachments/assets/8c2a2b9b-bf74-4b62-83a8-ca9e20dd252f" />
 
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/82fe9e43-5e8e-4c65-9da9-b72f4f276f1e" />
 
