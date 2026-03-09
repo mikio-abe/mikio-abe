@@ -55,9 +55,6 @@ A comprehensive verification environment integrating MPLS underlay, SD-WAN overl
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/8c2a2b9b-bf74-4b62-83a8-ca9e20dd252f" />
 
-<img width="750" alt="image" src="https://github.com/user-attachments/assets/82fe9e43-5e8e-4c65-9da9-b72f4f276f1e" />
-
-
 ---
 ### AS Numbers
 
