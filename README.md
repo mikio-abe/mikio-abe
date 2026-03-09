@@ -53,6 +53,15 @@ A comprehensive verification environment integrating MPLS underlay, SD-WAN overl
 
 <img width="1000" alt="image" src="https://github.com/user-attachments/assets/8c2a2b9b-bf74-4b62-83a8-ca9e20dd252f" />
 
+This diagram shows a multi-vendor SASE/SD-WAN lab in EVE-NG connected to real ISP lines. <BR>
+Two WAN paths — MPLS closed network and SASE IPSec tunnel via internet — run in parallel, with priority-based failover configured between them. <BR>
+Linux POPs bridge the virtual lab and real ISP connections, tunneling outbound to Cloudflare Zero Trust over live broadband and mobile tethering.
+
+**【日本語サマリ】**<BR>
+EVE-NG上のマルチベンダーSASE/SD-WANラボと実ISP回線を組み合わせた構成図です。
+MPLS閉域網とインターネット経由のSASE IPSecトンネルの2経路を並列で構成し、プライオリティによる自動切替を実装しています。<BR>
+Linux POPが仮想ラボと実回線の境界を橋渡しし、固定ブロードバンドとモバイルテザリングでCloudflare Zero Trustに接続しています。
+
 ---
 ### AS Numbers
 
