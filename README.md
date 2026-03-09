@@ -1,5 +1,3 @@
-![lab12_architecture_v7](https://github.com/user-attachments/assets/14f1b843-b24e-49e0-8595-ddb668b1b3bb)# Hi, I'm Mikio Abe
-
 CCNP ENCOR certified Network Engineer with expertise in **SASE, SD-WAN, and Zero Trust architectures**, built on a strong foundation of enterprise and service provider networking.
 
 **【日本語サマリ】**
